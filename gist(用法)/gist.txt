@@ -1,0 +1,4 @@
+判断类型
+var (
+  _ backoff.BackOff = (*BackOff)(nil)
+)
